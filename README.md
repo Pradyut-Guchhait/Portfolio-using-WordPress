@@ -14,6 +14,11 @@ Welcome to my portfolio website repository. This website showcases my skills, pr
 
 You can visit the live portfolio website [here](https://pradyutguchhait.wordpress.com/).
 
+## Demo
+![Demo Image](assets/Demo1.png)
+![Demo Image](assets/Demo2.png)
+![Demo Image](assets/Demo3.png)
+
 ## Installation
 
 1. Clone the repository:
