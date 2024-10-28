@@ -10,6 +10,10 @@ Welcome to my portfolio website repository. This website showcases my skills, pr
 - **Blog**: Posts on development, technology, and other relevant topics.
 - **Contact Form**: Integrated form for inquiries.
 
+## Website
+
+You can visit the live portfolio website [here](https://pradyutguchhait.wordpress.com/).
+
 ## Installation
 
 1. Clone the repository:
